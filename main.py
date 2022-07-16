@@ -79,7 +79,7 @@ def banner(str):
     os.system("cls||clear")
     my_banner = pyfiglet.figlet_format(str, font="slant", justify="center")
     print(red + my_banner)
-    print(f"\t\t\t{red}[ {white}Created By X-MrG3P5 {red}]\n")
+    print(f"\t\t\t{red}[ {white}Created By thismootsga {red}]\n")
 
 def generateDeviceID():
     string = "qwertyuiopasdfghjklzxcvbnm1234567890"
@@ -156,7 +156,7 @@ def handleProxyList(con, proxy_li, proxy_ty):
     return proxies
 
 if __name__ == '__main__':
-    banner("NGL - SPAM")
+    banner("NGL")
     input_username = input(f"{red}[{white}?{red}] {white}Username Target : ")
     input_total_spam = input(f"{red}[{white}?{red}] {white}Total Spam : ")
     input_message = input(f"{red}[{white}?{red}] {white}Message : ")
