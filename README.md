@@ -3,7 +3,7 @@
 ```bash
 > apt update && apt upgrade -y
 > pkg install python3 git libxslt -y
-> git clone https://github.com/oemxih/Spam-NGL
+> git clone https://github.com/oemzih/spm
 > cd Spam-NGL
 > pip3 install -r require.txt
 > python3 main.py
@@ -15,7 +15,7 @@
 > sudo su
 > apt update && apt upgrade -y
 > pkg install python3 python3-pip git -y
-> git clone https://github.com/oemzih/Spam-NGL
+> git clone https://github.com/oemzih/spm
 > cd Spam-NGL
 > pip3 install -r require.txt
 > python3 main.py
